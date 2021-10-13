@@ -20,7 +20,8 @@ func solution(_ record:[String]) -> [String] {
             chatLog.append(contentsOf: [[$0[0], $0[1]]])
         } else if $0[0] == "Change" {
             // 유저아이디(키)를 가지고 닉네임(값) 변경
-            userDictionary.updateValue($0[2], forKey: $0[1])
+//            userDictionary.updateValue($0[2], forKey: $0[1])
+            userDictionary[$0[1]] = $0[2]
         } else {
             // "000님이 나갔습니다." 를 만들기 위해 유저아이디와 닉네임을 추가
             chatLog.append(contentsOf: [[$0[0], $0[1]]])
