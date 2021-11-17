@@ -11,6 +11,8 @@
 ### 문제풀이
 - 📌 1주차 : 프로그래머스) 2019 KAKAO BLIND RECRUITMENT Level2 오픈채팅방 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/오픈채팅방.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/오픈채팅방.playground/Contents.swift)
 - 📌 3주차 : 프로그래머스) 2020 KAKAO BLIND RECRUITMENT Level2 괄호변환 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/괄호변환.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/괄호변환.playground/Contents.swift)
+- 📌 5주차 : 프로그래머스) 2020 카카오 인턴십 Level1 키패드 누르기 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/키패드%20누르기.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/키패드누르기.playground/Contents.swift)
+
 
 ### 문제풀이 외 공유
 - [Closure 표현방법](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/StudyMaterial/Closure%20표현방법.md)
