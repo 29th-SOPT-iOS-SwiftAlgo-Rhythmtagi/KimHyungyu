@@ -9,10 +9,10 @@
 ### ✨매주 수요일 22:00 마다 줌으로 각자의 리듬 공유합니다
 
 ### 문제풀이
-- 📌 1주차 : 프로그래머스) 2019 KAKAO BLIND RECRUITMENT > Level2 > 오픈채팅방 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/오픈채팅방.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/오픈채팅방.playground/Contents.swift)
-- 📌 3주차 : 프로그래머스) 2020 KAKAO BLIND RECRUITMENT > Level2 > 괄호변환 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/괄호변환.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/괄호변환.playground/Contents.swift)
-- 📌 5주차 : 프로그래머스) 2020 카카오 인턴십 > Level1 > 키패드 누르기 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/키패드%20누르기.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/키패드%20누르기.playground/Contents.swift)
-
+- 📌 1주차 : 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/오픈채팅방.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/오픈채팅방.playground/Contents.swift) / 프로그래머스) 2019 KAKAO BLIND RECRUITMENT > Level2 > 오픈채팅방 
+- 📌 3주차 : 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/괄호변환.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/괄호변환.playground/Contents.swift) / 프로그래머스) 2020 KAKAO BLIND RECRUITMENT > Level2 > 괄호변환 
+- 📌 5주차 : 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/키패드%20누르기.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/키패드%20누르기.playground/Contents.swift) / 프로그래머스) 2020 카카오 인턴십 > Level1 > 키패드 누르기 
+- 📌 6주차 : 😎[풀이](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/Solution/예산.md) / [코드](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/예산.playground/Contents.swift) / 프로그래머스) Summer/Winter Coding(~2019) > Level1 > 예산 
 
 ### 문제풀이 외 공유
 - [Closure 표현방법](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/StudyMaterial/Closure%20표현방법.md)
