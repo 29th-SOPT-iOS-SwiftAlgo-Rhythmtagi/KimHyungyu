@@ -16,3 +16,4 @@
 
 ### 문제풀이 외 공유
 - [Closure 표현방법](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/StudyMaterial/Closure%20표현방법.md)
+- [삼항연산자](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu/blob/main/StudyMaterial/삼항연산자.md)
